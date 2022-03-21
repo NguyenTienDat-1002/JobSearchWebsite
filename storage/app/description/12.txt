@@ -1,0 +1,6 @@
+• Work directly with client and development team
+• Test strategy composition and tasks estimation;
+• Design and write test cases, regression tests and test scenarios;
+• Functional testing according to test cases;
+• Free functional testing, reporting and verification according to defined test strategy;
+• Own work planning and reporting;

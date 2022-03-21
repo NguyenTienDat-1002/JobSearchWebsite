@@ -1,0 +1,9 @@
+• Bachelor's Degree in computer science or related field, or equivalent practical experience
+• Possess strong skills in object-oriented software design and programming
+• Proficient understanding of web markup, including HTML5, CSS3
+• Proficient understanding of client-side scripting and JavaScript/TypeScript frameworks, including JQuery
+• Good understanding of advanced SPA JavaScript/TypeScript libraries and frameworks, such as ReactJS, Redux, AngularJS
+• Good understanding of asynchronous request handling, partial page updates, and AJAX
+• Proficient understanding of cross-browser compatibility issues and ways to work around them
+• Experience working with systems dealing with large scale data storage, processing (real-time and batch), and analytics
+• Experience in a DevOps environment to deploy your own code is a plus

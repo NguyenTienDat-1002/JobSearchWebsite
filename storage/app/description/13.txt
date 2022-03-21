@@ -1,0 +1,18 @@
+VinBrain is a company funded by Vingroup, the largest conglomerate in Vietnam by market capitalization. Our mission is to perform cutting-edge research and development of AI, Machine Learning, and Deep Learning technologies and products that will lead to improve healthcare system and quality of life. At VinBrain, we believe the greatest promise of Big Data lies in healthcare. We believe that by solving unique and challenging problems at the intersection of (medical) Big Data, AI, IoT, and IoP (Internet of People), we can improve the outcomes for patients around the globe. We have assembled seasoned researchers, engineers, and entrepreneurs from world-class companies such as Microsoft, Amazon, Adobe and Google to build the platform and services to achieve this. If you are motivated to be part of something special and to be a catalyst for improving lives and healthier communities, we want to talk to you.
+
+Who we are looking for: experienced frontend engineers who will play a central role in building out both the large-scale intelligent products that runs in the cloud to improve patients and doctor experiences. As a member of our dynamic, agile team, you will have influence on defining product features, design and implement products features and drive operational excellence, and spearhead the engineering best practices that enable a high-quality product.
+
+Responsibilities:
+• Design and implement new user facing features for our system
+• Write reusable code and libraries for future use
+• Analyze and enhance application for maximum speed and scalability
+• Validate input before submitting to backend
+• Collaborate with team members and stakeholders
+• Bridge the gap between graphic design and technical implementation
+• Define how the application looks and how it works
+• Ensure technical feasibility and translate UI/UX design wireframes to actual code
+• Understand clinician workflows, work closer with experts (doctors, specialists) and how our product can best fit into those workflows
+• Familiar and growing your own expertise in machine learning
+• Collaborate effectively with product managers and applied scientists to build successful products
+• Build software framework that optimize and reuse in development life cycle
+• Practice disciplined software engineering (e.g. automated testing, code reviews)

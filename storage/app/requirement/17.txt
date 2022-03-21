@@ -1,0 +1,2 @@
+.EXPERIENCE: At least five years of progressive professional experience in public health informatics, including a minimum of three years’ experience in designing, developing, implementing and evaluating health informatics programs and coordination with international agencies or implementing partners is required.
+EDUCATION: A Master’s degree, or international equivalent, in Health Information Technology (HIT), Health Information Management (HIM), Health Informatics, Public Health or an equivalent combination of similar education and certifications is required.
