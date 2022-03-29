@@ -43,8 +43,8 @@
       @endforeach
    </div>
 
-   <div >
-      <div  >
+   <div style="margin-left: 13%; margin-right: 13%; height:55px ">
+      <div  style="margin-right: 0px; float:right; margin:10px; margin-right:30px">
          {{$posts->links()}}
       </div>
    </div>
